@@ -16,7 +16,7 @@ FUN_FACTS = [
     "I’m very excited to graduate in May",
     "My team and I for our senior project are building a really unique app that I can't wait to share.",
 ]
-PHOTO_PATH = "streamlit_CS/assets/BO_NIX.jpg"  # Put a file in repo root or set a URL
+PHOTO_PATH = "assets/BO_NIX.jpg"  # Put a file in repo root or set a URL
 
 # ---------- Layout ----------
 col1, col2 = st.columns([1, 2], vertical_alignment="center")
