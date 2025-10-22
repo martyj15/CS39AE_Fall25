@@ -16,7 +16,7 @@ FUN_FACTS = [
     "I’m very excited to graduate in May",
     "My team and I for our senior project are building a really unique app that I can't wait to share.",
 ]
-PHOTO_PATH = "assets/BO_NIX.jpg"  # Put a file in repo root or set a URL
+PHOTO_PATH = "https://www.google.com/imgres?q=bo%20nix&imgurl=https%3A%2F%2Fs.yimg.com%2Fny%2Fapi%2Fres%2F1.2%2FtpbUlXPybWdfAZqcj03vkw--%2FYXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ5NDtjZj13ZWJw%2Fhttps%3A%2F%2Fwww.gannett-cdn.com%2Fauthoring%2Fimages%2Fsmg%2F2024%2F08%2F29%2FSMGW%2F74765926007-USATSI_23974296-e1723465828419.jpeg&imgrefurl=https%3A%2F%2Fsports.yahoo.com%2Fbo-nix-near-perfect-against-005748942.html&docid=V7UdSyVmuzjVoM&tbnid=iUjMr141AjEY4M&vet=12ahUKEwjPst6p87iQAxXoFjQIHeo8HgUQM3oECBoQAA..i&w=640&h=494&hcb=2&ved=2ahUKEwjPst6p87iQAxXoFjQIHeo8HgUQM3oECBoQAA"  # Put a file in repo root or set a URL
 
 # ---------- Layout ----------
 col1, col2 = st.columns([1, 2], vertical_alignment="center")
